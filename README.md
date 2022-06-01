@@ -1,0 +1,2 @@
+# Random_Number_Generator
+ 使用Python和Tkinter制作的带GUI的随机数生成器
